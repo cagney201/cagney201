@@ -55,4 +55,4 @@ Building a portfolio of cybersecurity projects with a focus on practical, real-w
 ## Projects
 - [30 Day SOC Challenge](https://github.com/cagney201/30-Day-SOC-MyDFIR-Challenge-)
 
-- SOC Automation Project
+
