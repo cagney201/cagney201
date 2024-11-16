@@ -53,5 +53,6 @@ Building a portfolio of cybersecurity projects with a focus on practical, real-w
 </div>
 
 ## Projects
-- Detection Lab
+- [30 Day SOC Challenge](https://github.com/cagney201/30-Day-SOC-MyDFIR-Challenge-)
+
 - SOC Automation Project
